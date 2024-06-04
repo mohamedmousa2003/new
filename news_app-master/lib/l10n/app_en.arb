@@ -1,0 +1,12 @@
+{
+  "sport": "Sports",
+  "politics": "Politics",
+  "health": "Health",
+  "business": "Business",
+  "enviroment": "Enviroment",
+  "science": "Science",
+  "language": "Language",
+  "theme_mode": "Theme Mode",
+  "dark": "Dark",
+  "light": "Light"
+}

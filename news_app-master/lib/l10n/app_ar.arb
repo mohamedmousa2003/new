@@ -1,0 +1,12 @@
+{
+  "sport": "رياضة",
+  "politics": "سياسة ",
+  "health": "صحة",
+  "business": "عمل",
+  "enviroment": "البيئة",
+  "science": "علوم",
+  "language": "اللغة",
+  "theme_mode": "النمط",
+  "dark": "ليلي",
+  "light": "نهاري"
+}
